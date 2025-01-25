@@ -16,7 +16,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: remastered\obj\P_EX100_KH1F.a.us/-2.dds
+  - name: Limit Form Attacks\-2.dds
 - name: remastered\obj\P_EX100_KH1F.a.us/-3.dds
   platform: pc
   method: copy
